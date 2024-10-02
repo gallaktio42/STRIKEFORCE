@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">30daysApp</string>
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="Var1">Настройка смешивания топлива и воздуха</string>
+    <string name="Var2">Настройка холостого хода</string>
+    <string name="zero">Покупаем авто!</string>
+    <string name="one">Отключите двигатель, если он заведен.</string>
+    <string name="two">Откройте капот автомобиля.</string>
+    <string name="three">Определите, где находится воздушный фильтр.</string>
+    <string name="four">Открутите барашковую гайку воздушного фильтра.</string>
+    <string name="five">Снимите воздушный фильтр; карбюратор будет виден как элемент, к которому был присоединен фильтр.</string>
+    <string name="six">Найдите 2 болта в передней части карбюратора - они служат для регулирования смешивания потока воздуха и топлива.</string>
+    <string name="seven">
+Перезапустите двигатель и дайте ему разогреться до нормальной рабочей температуры - вы сможете определить это по звуку двигателя или с помощью термометра.</string>
+    <string name="eight">
+Отрегулируйте первый болт, медленно поворачивая его по часовой стрелке и считая число оборотов, пока двигатель не начнет работать с перебоями, станет фырчать или совсем заглохнет.</string>
+    <string name="nine">Отрегулируйте второй болт таким же образом и по тому же числу оборотов. Оба болта должны быть отрегулированы одинаково для достижения равномерного смешивания.</string>
+    <string name="ten">По одному поворачивайте оба винта в обратную сторону на 1/4 - 1/2 оборота за один раз, пока двигатель не начнет работать бесперебойно.</string>
+    <string name="eleven">
+По очереди поверните оба винта против часовой стрелки еще на 1/2 оборота или пока двигатель начнет работать с перебоями снова.</string>
+    <string name="twelve">Заново по очереди прокрутите оба винта по часовой стрелке до точки, при которой двигатель работал лучше всего.</string>
+    <string name="theerteen">Замените воздушный фильтр.</string>
+    <string name="fourteen">Заведите двигатель и оставьте на холостом ходу, или прокатитесь на автомобиле, пока он не разогреется.</string>
+    <string name="fifteen">
+Выключите двигатель.</string>
+    <string name="sixteen">Повторите описанные выше действия, чтобы снять воздушный фильтр.</string>
+    <string name="seventeen">
+Найдите трос управления дроссельной заслонкой и регулировочный винт холостого хода, прилегающий к нему.</string>
+    <string name="eighteen">
+Перезапустите двигатель.</string>
+    <string name="nineteen">Поверните регулировочный винт холостого хода на 1/2 оборота вправо, чтобы затянуть его.</string>
+    <string name="twenty">
+Прослушивайте звуки двигателя на четкость.</string>
+    <string name="twenty1">
+Подождите 30 секунд, пока двигатель не приспособится к изменению.</string>
+    <string name="twenty2">Продолжайте поворачивать регулировочный винт холостого хода на 1/2 оборота до тех пор, пока двигатель не будет работать гладко.</string>
+    <string name="twenty3">
+Замените воздушный фильтр.</string>
+</resources>
